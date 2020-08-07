@@ -26,4 +26,4 @@ The written explanation should be a list of things we learned this term that you
 
 ## Hand in
 
-Submit your paragraph as an Issue on GitHub, attached to the `animal-rescue-website` repository.
+Submit your paragraph as an Issue on GitHub, attached to the `independent-project` repository.
