@@ -26,4 +26,4 @@ The written explanation should be a list of things we learned this term that you
 
 ## Hand in
 
-Submit your paragraph as an Issue on GitHub, attached to the `independent-project` repository.
+Submit your paragraph as an Issue on GitHub, attached to the `web-design-2-independent-project` repository.
